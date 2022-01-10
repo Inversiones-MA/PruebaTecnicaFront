@@ -1,0 +1,39 @@
+.background-image {
+  background-image: url("../images/2_banner-test.png");
+}
+
+.header {
+  color: #fff;
+  height: 500px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.ant-input {
+  border-radius: 4px;
+}
+
+.ant-select-selector {
+  border-radius: 4px !important;
+}
+
+.ant-btn-primary {
+  border-radius: 20px;
+  border-color: red;
+  background: red;
+}
+
+.ant-btn-primary:hover {
+  border-color: red;
+  background: red;
+}
+
+.ant-card-body {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+hr {
+  background-color: red;
+  height: 1px;
+  border: 0;
+}
